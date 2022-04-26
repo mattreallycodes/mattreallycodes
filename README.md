@@ -4,9 +4,11 @@
 <h3> Creating better products in multiple industries with likeminded people</h3>
 
   I'm currently working on:  
-  Evolvee - A social MMO, creating positive culture shifts in gaming
-  EEstate - Proptech Startup, improving the real estate industry & increasing access
-  CivilianDAO - Communications Framework & Global Crisis Management solution 
+  <ul>
+  <li>Evolvee - A social MMO, creating positive culture shifts in gaming</li>
+  <li>EEstate - Proptech Startup, improving the real estate industry & increasing access</li>
+  <li>CivilianDAO - Communications Framework & Global Crisis Management solution</li> 
+  </ul>
 
   🏆 Goal: Improve the human experience while employing 50+ people & building diversive, inclusive products, teams
 
