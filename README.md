@@ -15,7 +15,7 @@
   I'm also avaliable for: 
   New Opportunities, 
   Consulting, 
-  Advisory 
+  Advisory  in Gaming, Proptech, DeFi, At funds, Cybersecurity, Art + more
 
   WAGMI ❤️
 
