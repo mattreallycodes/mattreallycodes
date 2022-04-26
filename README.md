@@ -1,5 +1,6 @@
 <h2> Humanity >= Profit </h2> 
 
+
 <h3> Creating better products in multiple industries with likeminded people</h3>
 
   I'm currently working on:  
@@ -14,7 +15,9 @@
   Consulting, 
   Advisory 
 
-  WAGMMI ❤️
+  WAGMI ❤️
+
+  Some Skills or challenges I can help with: Tokenomics, Smart Contracts, Blockchain Engineering, Full Stack Engineering, Cybersecurity, DeFi, NFTs, VR,    Solidity, Rust, Data Science, AI, ML & Recruitment, Business Development, Product Development, Marketing
 
 <!--
 **mattreallycodes/mattreallycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
