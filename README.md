@@ -3,7 +3,7 @@
 
 <h3> Creating better products in multiple industries with likeminded people</h3>
 
-  I'm currently working on:  
+  I'm currently working on building a company that includes the below products:  
   <ul>
   <li>Evolvee - A social MMO, creating positive culture shifts in gaming</li>
   <li>EEstate - Proptech Startup, improving the real estate industry & increasing access</li>
@@ -12,7 +12,7 @@
 
   🏆 Goal: Improve the human experience while employing 50+ people & building diversive, inclusive products, teams
 
-  I'm also avaliable for: 
+  I'm avaliable for: 
   New Opportunities, 
   Consulting, 
   Advisory  in Gaming, Proptech, DeFi, At funds, Infosecurity, Art, AI + more
