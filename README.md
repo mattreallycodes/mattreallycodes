@@ -3,7 +3,7 @@
 
 <h3> Creating better products in multiple industries with likeminded people</h3>
 
-  I'm currently working on building a company that includes the below products:  
+  I'm currently working on building a Web3 impact org that includes the below products:  
   <ul>
   <li>Evolvee - A social MMO, creating positive culture shifts in gaming</li>
   <li>EEstate - Proptech Startup, improving the real estate industry & increasing access</li>
