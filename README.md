@@ -1,3 +1,5 @@
+Quick note on Github activity: I have recently removed non relevant repos to current focus: Checkout Tradechain(Open Source Blockchain) or Automated Forex(Older Forex Trading System with Python) 
+
 Matt Shaver is a Quant Trading Systems, DeFi, Fintech Engineer, Executive, Social Entrepreneur & Researcher interested in working in the Americas, Oceania, Latin America, Africa,  Europe, Asia, & the Middle East. 
 
 Matt originally became interested in technology as an outlet for mathematical, artistic, inventor like creativity. Equipped with a passion for finding the better way  & criticizing absolutely everything a long the way.. he aims to improve the human experience for everyone. 
