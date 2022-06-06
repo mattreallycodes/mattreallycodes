@@ -22,7 +22,7 @@ Matt is interested in new engineering & executive roles involving  Finance, DeFi
 
 Matt has created an esports team, an eCommerce brand, and two marketing agencies as well as contributed to many early-stage Web3 ventures. He can advise companies, orgs on developing technology solutions as well as navigating existing regulations with new projects, & feature additions. Matt gives business not legal advice. 
 
-### Some interests & how he can help 👨‍💻 
+### Some Interests/Areas Where Matt Can Help 👨‍💻 
 
 Matt is interested in working with companies, orgs who need help with: Trading Systems, DeFI products, Web3 business development, fundraising & Real Estate Projects. Matt is looking to work with leaders in technology, finance, real estate & art. He can help with:  Trading Systems Development, Internal Alignment, Business Development, Tech Solution Development,  Presentations,  Fundraising, Token Engineering, Engineering & Marketing Team Building & Strategy, Org Strategy, Advisory & much more. 
 
