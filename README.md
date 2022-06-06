@@ -1,36 +1,37 @@
 Quick note on Github activity: I have recently removed non relevant repos to current focus: Checkout Tradechain(Open Source Blockchain) or Automated Forex(Older Forex Trading System with Python) 
 
-# Who is Matt? 
+🤵 # Who is Matt? 
 
 Matt Shaver is a Quant Trading Systems, DeFi, Fintech Engineer, Executive, Social Entrepreneur & Researcher interested in working in the Americas, Oceania, Latin America, Africa,  Europe, Asia, & the Middle East. 
 
 Matt originally became interested in technology as an outlet for mathematical, artistic, inventor like creativity. Equipped with a passion for finding the better way  & criticizing absolutely everything a long the way.. he aims to improve the human experience for everyone. 
 
-### What does Matt Support? 
+✅ ### What does Matt Support? 
 
 Matt supports diversity,  improving education,  STEM, equality, & humanity. He appreciates nature, is an animal lover(cats & dogs included.), is an artist/musician(hopefully he will finish something one day.). He enjoys dark humor, chess, art, food, philosophy, physics, spending way too much damn time reading research papers, & traveling. 
 
-### Work Preferences
+🌆 ### History/Work Preferences
 
 Matt has a preference for working in international business hubs. 
 Matt has been programming since 2007 using Python, Java, C, C++, C#   with personal studies focusing more in Computer Science, Data Science, & Statistics. Responsibility brings out the best in Matt & he doesn't mind high expectations. Matt is very knowledgeable about everything to do with Web3, Mathematics, Finance, & Tech in many different fields, industries.  
 
 Matt is interested in new engineering & executive roles involving  Finance, DeFi, & Trading Systems as well as AI(if it's an exceptional opportunity.) & Executive roles. In his spare time, Matt is building a Web3 impact org & community-driven digital products. Matt has certifications from MITx, online coding courses/boot camps & thousands of hours invested in online courses, books, & references. Matt studies global crypto laws, global economics & global regulations. 
 
-### Past Creations
+🌆 ### Past Creations
 
 Matt has created an esports team, an eCommerce brand, and two marketing agencies as well as contributed to many early-stage Web3 ventures. He can advise companies, orgs on developing technology solutions as well as navigating existing regulations with new projects, & feature additions. Matt gives business not legal advice. 
 
-### Some interests & how he can help 
+👨‍💻 ### Some interests & how he can help 
 
 Matt is interested in working with companies, orgs who need help with: Trading Systems, DeFI products, Web3 business development, fundraising & Real Estate Projects. Matt is looking to work with leaders in technology, finance, real estate & art. He can help with:  Trading Systems Development, Internal Alignment, Business Development, Tech Solution Development,  Presentations,  Fundraising, Token Engineering, Engineering & Marketing Team Building & Strategy, Org Strategy, Advisory & much more. 
 
-### Hobbies
+🎨 ### Hobbies
 
 Matt has many hobbies including chess(mainly playing bullet chess), guitar, reading philosophy, game dev, audio engineering/production, photography, biking, yoga, exploring culture, traveling, language exchange, hiking, writing, research, dancing, nutrition, & studying many different fields.    
 
-Contact Matt at: 
-mattreallycodes@protonmail.com
+### Contact Matt: 
+Email: mattreallycodes@protonmail.com
+LinkedIn: https://www.linkedin.com/in/mattliveshere/
 
 <!--
 **mattreallycodes/mattreallycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
